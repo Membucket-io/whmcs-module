@@ -1,0 +1,26 @@
+{
+    "name": "Membucket-io/whmcs-module",
+    "description": "Provisioning Module for WHMCS Billing Automation Platform",
+    "keywords": [
+        "membucket",
+        "whmcs",
+        "provisioning module",
+        "server module"
+    ],
+    "homepage": "https://www.membucket.io/",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Membucket Dev",
+            "email": "support@membucket.io",
+            "homepage": "https://www.membucket.io/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+      "email": "support@membucket.io"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}

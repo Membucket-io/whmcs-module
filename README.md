@@ -2,7 +2,7 @@
 
 © Copyright, 2018, Membucket.io, LLC.
 
-This program is released under the GNU LESSER GENERAL PUBLIC LICENSE Version 3.
+This program is released under license LGPL-3.0-or-later.
 
 ## Summary ##
 
